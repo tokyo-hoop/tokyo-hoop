@@ -6,9 +6,9 @@
      Linux/Distro,windows 
      & Android environment
 
-- 📫 How to reach me neeti93.wadheea@gmail
+- 📫 How to reach me neeti93.wadheea@gmail.com
 
 <!---
-tokyo-hoop/tokyo-hoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tokyo-hoop/levehoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
